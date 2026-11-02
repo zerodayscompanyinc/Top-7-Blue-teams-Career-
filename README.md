@@ -6,8 +6,6 @@
 **Published by:** zerodayscompanyinc
 **Format:** Blue Team Career Guide
 
-> Source note: adapted from a carousel originally posted by @hackingflixofficial.
-
 ---
 
 ## 01. SOC Analyst
